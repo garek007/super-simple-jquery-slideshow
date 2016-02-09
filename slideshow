@@ -1,0 +1,7 @@
+<div class="inlineSlideshow">
+  <!-- Drop your images here -->
+</div>
+<div class="inlineSlideshowNav">
+  <img class="backarrow" src="http://www.enjoysandiego.com/sdorg-images/presidential/arrow-backward.png" width="30" height="57" alt="Back"/>
+  <img class="forarrow" src="http://www.enjoysandiego.com/sdorg-images/presidential/arrow-forward.png" width="30" height="57" alt="Forward"/>
+</div>
