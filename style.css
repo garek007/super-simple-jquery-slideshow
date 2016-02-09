@@ -1,0 +1,5 @@
+.inlineSlideshow{width:100%;height:360px;position:relative;}
+.inlineSlideshow img{position:absolute;display:none;}
+.backarrow{left:43%;margin-right:10px;}
+.forarrow{right:43%;margin-left:10px;}
+.inlineSlideshowNav{margin:-70px 0 50px 0;z-index:100 !important;position:relative;text-align:center;}
